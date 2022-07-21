@@ -1,3 +1,3 @@
 # Visual-Sudoku-Solver
-CNN-ImageProcessing-SATEncoding
+CNN-ImageProcessing-SATEncoding <br>
 solve.py solves the puzzle
